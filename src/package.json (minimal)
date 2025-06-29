@@ -1,0 +1,11 @@
+{
+  "name": "ki-support-frontend",
+  "dependencies": {
+    "react": "^18.2.0",
+    "@stripe/stripe-js": "^1.36.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
